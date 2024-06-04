@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Nabila 👋
 
-<!--
-**nabilayumnan/nabilayumnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a part-time student majoring in Computer Science at UGM and a full-time learner of Data Science, Analysis, and AI.
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Medium: medium.com/@nabilayumnan [medium]
+- Email: nabilayumnan@gmail.com [email]
+- LinkedIn: www.linkedin.com/in/nabilayumnan [Linkedin]
+
+## 🌱 I’m currently learning:
+
+- Data Science
+- Data Analysis
+- Artificial Intelligence
+
+Feel free to reach out if you're looking for a collaborator on a project or just want to chat!
