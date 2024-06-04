@@ -1,12 +1,12 @@
 # Hello, I'm Nabila 👋
 
-I'm a part-time student majoring in Computer Science at UGM and a full-time learner of Data Science, Analysis, and AI.
+I'm a full-time learner of Data Science, Analysis, and AI and a part-time student majoring in Computer Science at Gadjah Mada University.
 
 ## 📫 How to reach me:
 
-- Medium: medium.com/@nabilayumnan [medium]
-- Email: nabilayumnan@gmail.com [email]
-- LinkedIn: www.linkedin.com/in/nabilayumnan [Linkedin]
+- Medium: [Medium](https://medium.com/@nabilayumnan)
+- Email: [Email](mailto:nabilayumnan@gmail.com)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/nabilayumnan)
 
 ## 🌱 I’m currently learning:
 
